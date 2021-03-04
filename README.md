@@ -5,4 +5,4 @@ This code example, help calculate dinamic "authorization" for every request for 
 
 File structure: RepositoryCosmosDB.Java implements interface iContact.java with some CRUD methods.
 
-Hope Enjoy
+Hope Enjoy. ;)
